@@ -7,7 +7,7 @@ A Java based implementation of routing system and the Network protocols .
 A Java application that simulates network packet routing between nodes. This project demonstrates how routers determine the most efficient path for data transmission using graph theory algorithms, mimicking real-world protocols like **OSPF (Open Shortest Path First)**.
 
 ## 📡 Project Overview
-Understanding how data packets traverse a network is fundamental to both **Network Engineering** and **Cyber Security**. This project builds a virtual network topology where:
+Understanding how data packets traverse a network is fundamental to  **Network Engineering** . This project builds a virtual network topology where:
 * **Nodes** represent Routers/Computers.
 * **Edges** represent Links (Cables/Connections) with specific costs (latency/bandwidth).
 * The system calculates the shortest path from Source to Destination to ensure efficient data delivery.
